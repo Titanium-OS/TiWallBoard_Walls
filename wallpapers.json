@@ -1,0 +1,21 @@
+{
+  "Collections": [
+    {
+      "name": "TitaniumOS",
+      "preview_url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/titanium_logo.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/titanium_logo_thumbnail.png"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "TitaniumDark",
+      "author": "Roger Truttmann",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/titanium_dark_1920X1080.png",
+      "dimensions": "1920X1080",
+	  "copyright": "Free (do whatever you want)",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	  "featured": true
+    }
+  ]
+}
