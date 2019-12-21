@@ -8,14 +8,57 @@
   ],
   "Wallpapers": [
     {
-      "name": "TitaniumDark",
+      "name": "TiDarkOne",
       "author": "Roger Truttmann",
-      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/titanium_dark_1920X1080.png",
-      "dimensions": "1920X1080",
-	  "copyright": "Free (do whatever you want)",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/tidark1.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true
+    },
+    {
+      "name": "TiYellow",
+      "author": "Vivek Roy",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/titanium_yellow.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiDarkTwo",
+      "author": "Roger Truttmann",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/tidark2.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiOrange",
+      "author": "Vivek Roy",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/titanium_orange.png",
+	    "copyright": "Free",
       "collections": "TitaniumOS",
       "downloadable": true,
 	  "featured": true
+    },
+    {
+      "name": "TiDarkThree",
+      "author": "Roger Truttmann",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/tidark3.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiDarkFour",
+      "author": "Roger Truttmann",
+      "url": "https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/tidark4.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
     }
   ]
 }
