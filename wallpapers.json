@@ -59,6 +59,56 @@
       "collections": "TitaniumOS",
       "downloadable": true,
 	    "featured": true
+    },
+    {
+      "name": "TiWall1",
+      "author": "Vivek Roy",
+      "url":
+"https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/ti_wall1.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiWall2",
+      "author": "Vivek Roy",
+      "url":
+"https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/ti_wall2.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiWall3",
+      "author": "Vivek Roy",
+      "url":
+"https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/ti_wall3.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiWall4",
+      "author": "Vivek Roy",
+      "url":
+"https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/ti_wall4.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
+    },
+    {
+      "name": "TiWall5",
+      "author": "Vivek Roy",
+      "url":
+"https://raw.githubusercontent.com/Titanium-OS/TiWallBoard_Walls/master/wallpapers/ti_wall5.png",
+	    "copyright": "Free",
+      "collections": "TitaniumOS",
+      "downloadable": true,
+	    "featured": true
     }
   ]
 }
